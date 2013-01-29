@@ -6,7 +6,7 @@ been selected within GVM.
 
 ## Assumptions
 
-*
+* gvm is installed in the home directory of the user running the jenkins server.
 
 ## TODO:
 
